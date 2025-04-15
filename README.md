@@ -1,2 +1,2 @@
-# angular-ts-mode
-angular-ts-mode
+# ngxhtml-ts-mode
+tree-sitter mode for angular html
